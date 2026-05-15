@@ -29,7 +29,7 @@ Plutôt que d'utiliser un module FTDI externe, le téléversement a été réali
 * `GND` (ESP32 Pont) ➔ `GND` *(ESP32-CAM)*
 * `IO0` (ESP32-CAM) ➔ `GND` *(Uniquement lors du téléversement, à déconnecter pour l'exécution)*
 ## 🔌 Schéma Électrique
-![Schéma de câblage Fritzing/Wokwi]()
+![Schéma de câblage Fritzing](https://github.com/AmineHajSaleh/esp32cam-pir-telegram-bot/blob/main/Screenshot%202026-05-15%20170005.png)
 ## 🚀 Installation et Déploiement
 
 1. Cloner le dépôt localement :
