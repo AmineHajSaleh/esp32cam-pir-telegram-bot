@@ -4,10 +4,10 @@
 #include <UniversalTelegramBot.h>
 
 // -------- CONFIG --------
-const char* ssid     = "AminesiPhone";
-const char* password = "al3ablibihmarra";
-const char* botToken = "8456735953:AAFOm4qQH3MzU_jGda7-g-1qGTgtTqsKnn0";
-const char* chatId   = "6077821125";
+const char* ssid     = "VOTRE_WIFI_SSID";
+const char* password = "VOTRE_WIFI_PASSWORD";
+const char* botToken = "VOTRE_TOKEN_TELEGRAM";
+const char* chatId   = "VOTRE_CHAT_ID";
 
 // -------- AI THINKER PINS --------
 #define PWDN_GPIO_NUM     32
